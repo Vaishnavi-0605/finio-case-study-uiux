@@ -37,9 +37,9 @@ Finio provides:
 ## 📱 Mobile Screens
 
 <p align="center">
-  <img src="screens/phone/home-main.png" width="30%" />
-  <img src="screens/phone/transaction-history.png" width="30%" />
-  <img src="screens/phone/insights.png" width="30%" />
+  <img src="screens/phone/1-home-phone.png" width="30%" />
+  <img src="screens/phone/finio-transactions.png" width="30%" />
+  <img src="screens/phone/insights-phone.png" width="30%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Finio provides:
 
 <p align="center">
   <img src="screens/desktop/cards.png" width="45%" />
-  <img src="screens/desktop/features-hub.png" width="45%" />
+  <img src="screens/desktop/features hub.png" width="45%" />
 </p>
 
 ---
