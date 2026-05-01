@@ -64,7 +64,9 @@ Finio provides:
 
 ## 🔗 Prototype
 
-👉 [View Interactive Prototype]([https://www.figma.com/proto/pl3WRsjK2LTJZ1DKLOg2vB/Project?page-id=46%3A524&node-id=345-654&p=f&viewport=-2552%2C2205%2C0.23&t=7f5UNurCYVX4kxXy-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=345%3A649])
+Explore the interactive prototype here:
+
+👉 https://www.figma.com/proto/pl3WRsjK2LTJZ1DKLOg2vB/Project?page-id=46%3A524&node-id=345-654&p=f&viewport=-2552%2C2205%2C0.23&t=7f5UNurCYVX4kxXy-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=345%3A649
 
 ---
 
